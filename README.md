@@ -1,1 +1,1 @@
-Simple landing page with Javascript / CSS / HTML for practice purpose
+Simple frontend layout with Javascript / CSS / HTML for practice purpose
